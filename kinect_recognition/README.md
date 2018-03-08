@@ -18,3 +18,5 @@ For making life easy and to avoid mistakes due to Noise in the depth stream, you
 Now you can setup the Kinect and check the depth from the required object and make changes to the environment accordingly. Once you are done with the setup and distance click "Save Feed" button. If the Kinect v2 recognizes object in the scene it will show the Status text and start saving the Color Stream to 'My Pictures' Folder. You can change the folder to your required Location in the SaveColor() function.
 
 Note: Make sure that you click on Save Feed again to stop saving the stream.
+
+feature/tony/demo1'
